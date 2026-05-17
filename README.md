@@ -1,6 +1,6 @@
 # hey, i'm william 👋
 
-software eng @ UNSW 
+software eng @ UNSW
 
 working out · investing · music · appreciating art
 
@@ -18,10 +18,8 @@ working out · investing · music · appreciating art
   </a>
 </div>
 
-<br/>
+---
 
-<div align="center">
+## ⌨️ type test
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Park07&theme=github-dark-blue&hide_border=true&background=0D1117&ring=F9CB42&fire=E8593C&currStreakLabel=F9CB42&sideLabels=F9CB42)](https://git.io/streak-stats)
-
-</div>
+[![type-test](https://img.shields.io/badge/how_fast_can_you_type%3F-F9CB42?style=for-the-badge&logo=keyboard&logoColor=black)](https://park07.github.io/type-test)
