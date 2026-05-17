@@ -1,6 +1,7 @@
 # hey, i'm william 👋
 
-software eng @ UNSW · i write code in too many languages
+software eng @ UNSW 
+working out · investing · music · appreciating art
 
 ---
 
