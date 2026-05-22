@@ -23,3 +23,6 @@ working out · investing · music · appreciating art
 ## ⌨️ type test
 
 [![type-test](https://img.shields.io/badge/how_fast_can_you_type%3F-F9CB42?style=for-the-badge&logo=keyboard&logoColor=black)](https://park07.github.io/type-test)
+
+## favourite quote
+'The best way to predict the future is to invent it' - Alan Kay
