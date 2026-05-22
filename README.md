@@ -1,6 +1,6 @@
 # hey, i'm william 👋
 
-software eng @ UNSW
+software eng student @ UNSW
 
 working out · investing · music · appreciating art
 
