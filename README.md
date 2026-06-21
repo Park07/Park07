@@ -2,7 +2,14 @@
 
 software eng student @ UNSW
 
-i like investing, reading books, music (currently learning to get better at Garageband haha)  + kayaking (if the weather's good!)
+i like
+- investing
+- reading books
+- working out
+- music (currently learning to get better at Garageband haha)
+- (if the weather's good) kayaking
+
+  
 ---
 
 ## 📊 my stats
