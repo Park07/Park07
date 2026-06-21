@@ -2,8 +2,7 @@
 
 software eng student @ UNSW
 
-working out · investing · music · appreciating art
-
+i like investing, reading books, music (currently learning to get better at Garageband haha)  + kayaking (if the weather's good!)
 ---
 
 ## 📊 my stats
